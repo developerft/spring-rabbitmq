@@ -1,0 +1,1 @@
+docker run: docker-compose -f your-docker-compose-file up -d 
